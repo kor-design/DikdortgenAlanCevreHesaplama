@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\DikdortgenAlanHesaplama\DikdortgenAlanHesaplama\DikdortgenAlanHesaplama\bin\Debug\DikdortgenAlanHesaplama.exe.config
+C:\Users\Windows10\Documents\GitHub\DikdortgenAlanHesaplama\DikdortgenAlanHesaplama\DikdortgenAlanHesaplama\bin\Debug\DikdortgenAlanHesaplama.exe
+C:\Users\Windows10\Documents\GitHub\DikdortgenAlanHesaplama\DikdortgenAlanHesaplama\DikdortgenAlanHesaplama\bin\Debug\DikdortgenAlanHesaplama.pdb
+C:\Users\Windows10\Documents\GitHub\DikdortgenAlanHesaplama\DikdortgenAlanHesaplama\DikdortgenAlanHesaplama\obj\Debug\DikdortgenAlanHesaplama.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\DikdortgenAlanHesaplama\DikdortgenAlanHesaplama\DikdortgenAlanHesaplama\obj\Debug\DikdortgenAlanHesaplama.exe
+C:\Users\Windows10\Documents\GitHub\DikdortgenAlanHesaplama\DikdortgenAlanHesaplama\DikdortgenAlanHesaplama\obj\Debug\DikdortgenAlanHesaplama.pdb
